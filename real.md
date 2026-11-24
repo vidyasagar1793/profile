@@ -65,7 +65,6 @@
   </tr>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidyasagar1793&theme=default" alt="vidyasagar1793" /></a> </p>
 
 <br>
 
@@ -76,15 +75,4 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=vidyasagar1793&show_icons=true&locale=en&theme=dark" alt="vidyasagar1793" /></p>
 
-<h1 align="center">Statistics </h1>
-<div align="center">
-<a href="https://github.com/vidyasagar1793">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidyasagar1793&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vidyasagar1793&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidyasagar1793&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vidyasagar1793&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vidyasagar1793&theme=dark" height="180em" />
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">
-⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vidyasagar1793&theme=github-dark"/>
